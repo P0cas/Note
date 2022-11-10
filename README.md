@@ -886,6 +886,16 @@ print(base64.b64encode(pickle.dumps(rce())))
 [Link](https://www.ipaddressguide.com/ip)
 
 ---
+## Custom DNS Rebinding URL
+
+[Link](https://lock.cmpxchg8b.com/rebinder.html)
+
+---
+## Custom HTTP Request URL
+
+[Link](http://httpbin.org/)
+
+---
 ## Create an endpoint or Connection redirector
 
 [Link (Create an endpoint)](https://bugpoc.com/testers/other/mock)
